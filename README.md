@@ -15,7 +15,7 @@ Sou desenvolvedor de sistemas me especializando na linguagem Java e em ferrament
  
 <div>
   <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorsalgado&repo=convoychat"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsalgado&exclude_repo=igorsalgado&hide_title=true&theme=gotham"/>
 </div>
 
 <p align="center"><em>💡 "Seja a mudança que você deseja ver no mundo!"</em>
