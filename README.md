@@ -39,6 +39,7 @@ Sou desenvolvedor de sistemas me especializando na linguagem Java e em ferrament
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   </br>
   </br>
   <img src="https://komarev.com/ghpvc/?username=igorsalgado&color=blueviolet">
