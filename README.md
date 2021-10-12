@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Igor!
 
-Sou desenvolvedor de sistemas me especializando na linguagem Java e em ferramentas comumente utilizadas nos tempos atuais. Sempre atento com a qualidade e legibilidade do código, buscando aplicar conceitos de Clean Code, Clean Architeture e Design Patterns em meus projetos.
+Sou estudante de Sistemas de Informação, estou me especializando na linguagem Java e em ferramentas comumente utilizadas nos tempos atuais. Sempre atento com a qualidade e legibilidade do código, buscando aplicar conceitos de Clean Code, Clean Architeture e Design Patterns em meus projetos.
 
 - 👨‍🎓 Cursando o 6° período de Sistemas de Informação
 - 🌱 Estudando SPRING com foco em Dev. Java Back-end
