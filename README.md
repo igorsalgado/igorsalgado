@@ -10,10 +10,6 @@ Estou me especializando na linguagem Java e em ferramentas comumente utilizadas 
   <a href="mailto:salgado.igor.is@gmail.com"><img align="center" src="https://imgur.com/WPgAIiz.png" height="30" width="30"/></a>
 </div>
  
-<div>
-  <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsalgado&exclude_repo=igorsalgado&hide_title=true&theme=gotham"/>
-</div>
 
 <p align="center"><em>💡 "Seja a mudança que você deseja ver no mundo!"</em>
   
