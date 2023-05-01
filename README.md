@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Igor!
 
-Estou me especializando na linguagem Java e em ferramentas comumente utilizadas nos tempos atuais. Sempre atento com a qualidade e legibilidade do código, buscando aplicar conceitos de Clean Code, Clean Architeture e Design Patterns em meus projetos.
+Estou me especializando em ferramentas comumente utilizadas para o backend. Sempre atento com a qualidade e legibilidade do código, buscando aplicar conceitos de Clean Code, Clean Architeture e Design Patterns em meus projetos.
 
 
 <div>
@@ -31,11 +31,6 @@ Estou me especializando na linguagem Java e em ferramentas comumente utilizadas 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <!-- <img src="">>
-  </br>
-  </br>
-  <img src="https://komarev.com/ghpvc/?username=igorsalgado&color=blueviolet">
-</div>
+
 
