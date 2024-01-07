@@ -4,17 +4,18 @@ Estou me especializando em ferramentas comumente utilizadas para o backend. Semp
 
 
 <div>
+</br>
 
   <p align="center">
   <a href="https://www.linkedin.com/in/igorsalgadoz/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="igorsalgadoz" height="30" width="40"/></a>
   <a href="mailto:salgado.igor.is@gmail.com"><img align="center" src="https://imgur.com/WPgAIiz.png" height="30" width="30"/></a>
 </div>
- 
+</br>
 
 <p align="center"><em>💡 "Seja a mudança que você deseja ver no mundo!"</em>
-  
-<div>
 </br>
+<div>
+
   <p align="center"> 
       <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
