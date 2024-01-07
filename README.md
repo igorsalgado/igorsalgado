@@ -17,11 +17,7 @@ Estou me especializando em ferramentas comumente utilizadas para o backend. Semp
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
   <p align="center"> 
       <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
