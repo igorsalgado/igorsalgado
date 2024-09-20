@@ -8,7 +8,6 @@ Estou me especializando em ferramentas comumente utilizadas para o backend. Semp
 
   <p align="center">
   <a href="https://www.linkedin.com/in/igorsalgadoz/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="igorsalgadoz" /></a>
-  <a href="mailto:salgado.igor.is@outlook.com"><img align="center" src="https://imgur.com/WPgAIiz.png" height="30" width="30"/></a>
 </div>
 </br>
 
