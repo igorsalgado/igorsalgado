@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Igor!
 
-Estou me especializando em ferramentas comumente utilizadas para o backend. Sempre atento com a qualidade e legibilidade do código, buscando aplicar conceitos de Clean Code, Clean Architeture e Design Patterns em meus projetos.
+Especializado em ferramentas comumente utilizadas para o backend. Sempre atento com a qualidade e legibilidade do código, buscando aplicar conceitos de Clean Code, Clean Architeture e Design Patterns em meus projetos.
 
 
 <div>
