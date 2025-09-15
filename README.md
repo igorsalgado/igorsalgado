@@ -7,7 +7,7 @@ Especializado em ferramentas comumente utilizadas para o backend. Sempre atento 
 </br>
 
   <p align="center">
-  <a href="https://www.linkedin.com/in/igorsalgadoz/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="igorsalgadoz" /></a>
+  <a href="https://www.linkedin.com/in/igorandradez/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="igorsalgadoz" /></a>
 </div>
 </br>
 
