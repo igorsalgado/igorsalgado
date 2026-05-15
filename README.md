@@ -24,16 +24,17 @@ curated datasets through APIs and dashboards.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,aws,docker,kubernetes,postgres,mysql,mongodb,git,githubactions,linux" alt="Python, FastAPI, Django, AWS, Docker, Kubernetes, PostgreSQL, MySQL, MongoDB, Git, GitHub Actions, Linux" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,aws,docker,kubernetes,postgresql,mysql,mongodb,git,githubactions,linux" alt="Python, FastAPI, Django, AWS, Docker, Kubernetes, PostgreSQL, MySQL, MongoDB, Git, GitHub Actions, Linux" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
   <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white" alt="Apache Parquet" />
+  <img src="https://img.shields.io/badge/dbt%20Core-FF694B?style=for-the-badge" alt="dbt Core" />
 </p>
 
 ## Portfolio Direction
