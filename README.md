@@ -15,9 +15,9 @@ curated datasets through APIs and dashboards.
 
 ## Current Focus
 
-- Batch and analytical pipelines with `Python`, `DuckDB`, `dbt`, and `Parquet`
+- Data Engineering with `Python`, `Databricks`, `Airflow`, `dbt`, and `AWS`
+- Batch pipelines, orchestration, data modeling, and analytical layer design
 - Data serving with `FastAPI`, REST contracts, and dashboard-ready endpoints
-- Cloud fundamentals for Data Engineering, especially `AWS`, object storage, and serverless patterns
 - Workflow reliability: idempotency, backfills, data quality, testing, and observability
 
 ## Data Engineering Stack
